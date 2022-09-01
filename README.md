@@ -31,5 +31,5 @@ Code.gs is loaded into Extensions > Apps Script (from the top menu of the sheet)
 
 # TODOs:
 
-1. Expand functionality to allow for 
+1. Expand functionality to allow for workshop-type events which involve completion / grading aspects.
 
