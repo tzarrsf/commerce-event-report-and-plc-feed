@@ -1,6 +1,6 @@
-# Commerce Series-type Event Summary Report and PLC Feed (for events without completion / grading)
+# Commerce Event Report and PLC Feed (initially for events without completion / grading aspects)
 
-> This is a template for getting clean data from our series type events like Office Hours, How to Sell, Go to Market, Coming Soon and so forth. It can also generate the "Registered" and "Attended" data for feed to the PLC org.
+> Currently this template supports "Series-type" events such as Office Hours, How to Sell, Coming Soon, etc. where completion and grading aspects are not needed. There are plans to expand this functionality to support "Workshop-type" events with completion and grading aspects.
 
 ## Configuration:
 
@@ -30,6 +30,4 @@ Code.gs is loaded into Extensions > Apps Script (from the top menu of the sheet)
 6. @-mention to Lena that your new numbers are ready and have been uploaded to PLC.
 
 # TODOs:
-
 1. Expand functionality to allow for workshop-type events which involve completion / grading aspects.
-
